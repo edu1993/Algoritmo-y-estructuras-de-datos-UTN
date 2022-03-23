@@ -1,0 +1,19 @@
+/* ejerscio 2 */
+char lista [25];
+for (i=0,i<25;i++)
+{
+    lista [i]=65+i
+    
+}
+
+/* ej 3 */
+struct persona 
+{
+       char nombre [20];
+       int edad;
+       
+       
+}
+main ()
+{
+     persona 
